@@ -20,7 +20,7 @@ namespace _0928PGY
                 Console.WriteLine($"Hello World! {d}");
                 
             } while (d!=f);
-            Console.ReadKey();
+            Console.ReadKey(true);
 
         }
     }
