@@ -18,6 +18,7 @@ namespace _0928PGY
             {
                 d++;
                 Console.WriteLine($"Hello World! {d}");
+                
             } while (d!=f);
             Console.ReadKey();
 
